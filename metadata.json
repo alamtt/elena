@@ -1,0 +1,7 @@
+{
+  "name": "ELENA logistique - Warehouse Management System",
+  "description": "Une application robuste et intelligente pour la gestion d'entrepôts de boissons, incluant le suivi FEFO, la cartographie des zones thermiques et la gestion des consignes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
